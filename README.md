@@ -1,1 +1,2 @@
-# otameshi
+#otameshi
+ローカルからクラウドへの動作確認です．
